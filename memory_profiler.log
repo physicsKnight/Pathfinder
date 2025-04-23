@@ -1,0 +1,48 @@
+Filename: C:\Users\shari\Desktop\Coding\algorithms\graph-algos\draw.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   293     95.5 MiB     95.5 MiB           1       @profile(stream=fp)
+   294                                             def execute_function(self, function, *args):
+   295     95.5 MiB      0.0 MiB           1           try:
+   296     95.2 MiB     -0.3 MiB           1               function(*args)
+   297                                                 except Exception as e:
+   298                                                     print(f"Exception in background thread: {e}")
+
+
+Filename: C:\Users\shari\Desktop\Coding\algorithms\graph-algos\draw.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   293     95.1 MiB     95.1 MiB           1       @profile(stream=fp)
+   294                                             def execute_function(self, function, *args):
+   295     95.1 MiB      0.0 MiB           1           try:
+   296     95.2 MiB      0.0 MiB           1               function(*args)
+   297                                                 except Exception as e:
+   298                                                     print(f"Exception in background thread: {e}")
+
+
+Filename: C:\Users\shari\Desktop\Coding\algorithms\graph-algos\draw.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   293     95.2 MiB     95.2 MiB           1       @profile(stream=fp)
+   294                                             def execute_function(self, function, *args):
+   295     95.2 MiB      0.0 MiB           1           try:
+   296     95.2 MiB      0.0 MiB           1               function(*args)
+   297                                                 except Exception as e:
+   298                                                     print(f"Exception in background thread: {e}")
+
+
+Filename: C:\Users\shari\Desktop\Coding\algorithms\graph-algos\draw.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   293     95.2 MiB     95.2 MiB           1       @profile(stream=fp)
+   294                                             def execute_function(self, function, *args):
+   295     95.2 MiB      0.0 MiB           1           try:
+   296     95.2 MiB      0.0 MiB           1               function(*args)
+   297                                                 except Exception as e:
+   298                                                     print(f"Exception in background thread: {e}")
+
+
